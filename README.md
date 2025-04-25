@@ -19,3 +19,6 @@ teste
    - Isso
   
 # ISSO NÃO FoI FAZIDO POR MIM PROPIO
+Dica do dia:
+> "É fazendo muita merda que se aduba a vida" Herculano - Irmã
+> To fazendo uma pagina no github
